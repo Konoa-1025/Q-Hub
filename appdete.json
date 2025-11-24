@@ -1,0 +1,14 @@
+{
+  "app_name": "E-HUB",
+  "latest_version": "1.0.0",
+  "force_update": false,
+  "download_url": "https://example.com/E-HUB/E-HUB_v1.0.0.zip",
+  "release_date": "2025-11-23T12:00:00+09:00",
+  "changelog": [
+    "初回テスト",
+    "アップデートチェック処理の追加",
+    "安定性の改善",
+    "その他細かい修正"
+  ],
+  "notice": "初回リリース"
+}
